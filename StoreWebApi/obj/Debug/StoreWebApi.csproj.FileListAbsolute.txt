@@ -1,0 +1,204 @@
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\StoreWebApi.dll.config
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\StoreWebApi.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\StoreWebApi.pdb
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\csc.exe
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\csc.exe.config
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\csc.rsp
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\csi.exe
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\csi.exe.config
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\csi.rsp
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Console.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\vbc.exe
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\vbc.exe.config
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\vbc.rsp
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\EntityFramework.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\System.Web.Http.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\EntityFramework.xml
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\System.Web.Http.xml
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.csprojAssemblyReference.cache
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.csproj.CopyComplete
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.dll
+C:\Users\Lena\source\repos\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.pdb
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\StoreWebApi.dll.config
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\StoreWebApi.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\StoreWebApi.pdb
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\csc.exe
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\csc.exe.config
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\csc.rsp
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\csi.exe
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\csi.exe.config
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\csi.rsp
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.AppContext.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Console.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.Compression.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.Pipes.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Claims.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.ValueTuple.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Xml.XPath.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\vbc.exe
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\vbc.exe.config
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\vbc.rsp
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\VBCSCompiler.exe
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\EntityFramework.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\EntityFramework.SqlServer.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\Newtonsoft.Json.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\System.Net.Http.Formatting.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\System.Web.Http.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\System.Web.Http.WebHost.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\EntityFramework.xml
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\EntityFramework.SqlServer.xml
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\Newtonsoft.Json.xml
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\System.Net.Http.Formatting.xml
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\System.Web.Http.xml
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\System.Web.Http.WebHost.xml
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.csprojAssemblyReference.cache
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.csproj.CoreCompileInputs.cache
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.csproj.CopyComplete
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.dll
+D:\Флэшка\ASP.NET WEB API\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.pdb
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\StoreWebApi.dll.config
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\StoreWebApi.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\StoreWebApi.pdb
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\csc.exe
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\csc.exe.config
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\csc.rsp
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\csi.exe
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\csi.exe.config
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\csi.rsp
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.AppContext.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Console.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.Compression.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.IO.Pipes.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Claims.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.ValueTuple.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Xml.XPath.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\vbc.exe
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\vbc.exe.config
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\vbc.rsp
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\VBCSCompiler.exe
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\EntityFramework.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\EntityFramework.SqlServer.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\Newtonsoft.Json.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\System.Net.Http.Formatting.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\System.Web.Http.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\System.Web.Http.WebHost.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\EntityFramework.xml
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\EntityFramework.SqlServer.xml
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\Newtonsoft.Json.xml
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\System.Net.Http.Formatting.xml
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\System.Web.Http.xml
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\System.Web.Http.WebHost.xml
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.csprojAssemblyReference.cache
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.csproj.CoreCompileInputs.cache
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.csproj.CopyComplete
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.dll
+D:\Флэшка\ASP.NET WEB API\class\first\StoreWebApi\StoreWebApi\obj\Debug\StoreWebApi.pdb
