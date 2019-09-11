@@ -86,16 +86,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\StoreWebApi.Models.StoreDbContext.mdf" />
+    <Content Include="App_Data\StoreWebApi.Models.StoreDbContext_log.ldf">
+      <DependentUpon>StoreWebApi.Models.StoreDbContext.mdf</DependentUpon>
+    </Content>
     <Content Include="Global.asax" />
     <Content Include="index.html" />
+    <Content Include="View\OrderView.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\OrdersController.cs" />
     <Compile Include="Controllers\ProductsController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Order.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\StoreDbContext.cs" />
     <Compile Include="Models\StoreDbInitializer.cs" />
@@ -111,9 +118,7 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

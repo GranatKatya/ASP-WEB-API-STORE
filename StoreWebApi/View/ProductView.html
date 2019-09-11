@@ -143,12 +143,12 @@
     function WriteResponse(books) {
         var strResult = "<table><th>ID</th><th>Название</th>"+
             //< th > Автор</th>
-              "<th>Price</th>";
+              "<th>Price</th><th></th><th></th>";
         $.each(books, function (index, book) {
             strResult += "<tr><td>" + book.Id + "</td><td> " + book.Name + "</td>"+
             //    < td > " +
             //book.Author + "</td>
-               " < td > " + book.Price +
+               " <td> " + book.Price +
             "</td><td><a id='editItem' data-item='" + book.Id + "' onclick='EditItem(this);' >Редактировать</a></td>" +
             "<td><a id='delItem' data-item='" + book.Id + "' onclick='DeleteItem(this);' >Удалить</a></td></tr>";
         });

@@ -14,15 +14,31 @@
             integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
             crossorigin="anonymous"></script>
 
+
+    <!--<script>
+         var uri = "api/products";
+
+         $(document).ready(function () {
+
+             $.getJSON(uri)
+                 .done(function (data) {
+                     $.each(data, function (key, item) {
+                         $('<li>', { text: item.Name + ': ' + item.Price })
+                             .appendTo($('#products'));
+                     });
+                 })
+
+         });
+     </script>-->
     <script>
-        var uri = "api/products";
+        var uri = "api/Orders";
 
         $(document).ready(function () {
 
             $.getJSON(uri)
                 .done(function (data) {
                     $.each(data, function (key, item) {
-                        $('<li>', { text: item.Name + ': ' + item.Price })
+                        $('<li>', { text: item.Name  })
                             .appendTo($('#products'));
                     });
                 })

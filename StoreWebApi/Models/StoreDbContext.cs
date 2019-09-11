@@ -9,7 +9,8 @@ namespace StoreWebApi.Models
     public class StoreDbContext : DbContext
     {
         public DbSet<Product> Products { get; set; }
-
+        public DbSet<Order> Orders { get; set; }
+        
         static StoreDbContext()
         {
             Database.SetInitializer(new StoreDbInitializer());

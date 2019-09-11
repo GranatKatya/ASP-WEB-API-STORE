@@ -24,6 +24,12 @@ namespace StoreWebApi.Models
                 Name = "Grapes",
                 Price = 50m
             });
+
+
+            context.Orders.Add(new Order { StatusName = "Done" });
+            context.Orders.Add(new Order { StatusName = "Send" });
+            context.Orders.Add(new Order { StatusName = "New" });
+
             base.Seed(context);
         }
     }

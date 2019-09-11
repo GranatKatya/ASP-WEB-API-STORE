@@ -18,6 +18,7 @@ namespace StoreWebApi.Controllers
 
         public IHttpActionResult GetProduct(int id)
         {
+           
             var product = db.Products.Find(id);
             if(product == null)
             {
@@ -28,10 +29,16 @@ namespace StoreWebApi.Controllers
         }
 
         [HttpPost]
-        public void CreateProduct([FromBody]Product product)
+        public IHttpActionResult CreateProduct([FromBody]Product product)
         {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
             db.Products.Add(product);
             db.SaveChanges();
+            return Ok(product);
         }
 
         [HttpPut]
